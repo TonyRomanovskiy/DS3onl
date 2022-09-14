@@ -1,0 +1,2 @@
+https://github.com/DmitryKarpechenko/dz3.git
+https://github.com/DmitryKarpechenko/DS3onl.git
