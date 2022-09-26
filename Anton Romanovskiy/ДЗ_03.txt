@@ -1,0 +1,16 @@
+
+https://gitlab.com/TonyRomanovskiy/ds_homework
+https://github.com/TonyRomanovskiy/DS3onl
+
+  
+
+  469  git init
+  470  git status
+  471  git init
+  472  git status
+  473  git add --all
+  474  git commit -m "first"
+  475  git remote add gitlab https://gitlab.com/TonyRomanovskiy/ds_homework.git
+  476  git remote
+  477  git push gitlab --all
+  478  history
