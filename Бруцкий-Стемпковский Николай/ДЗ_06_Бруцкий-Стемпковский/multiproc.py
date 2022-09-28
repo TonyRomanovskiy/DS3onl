@@ -5,7 +5,7 @@
 v. 02
 
 GIL. Исследование мультипоточности и многопроцессорности.
-Multiprocessing download
+Multiprocessing download  - загрузка в многопроцессорном режиме
 """
 import re
 import os
@@ -45,9 +45,10 @@ if not os.path.isdir("folder_for_images"):
 
 path = os.getcwd() + "\\folder_for_images\\"
 
-if __name__ == '__main__':
-    with multiprocessing.Pool(1) as p:
-        p.map(saving_images, list_of_links)
+if __name__ == "__main__":
+    with multiprocessing.Pool(8) as pool:
+        pool.map(saving_images, list_of_links)
 
-end = time.time()
-print("Время при одиночной загрузке " + str(round(end - start, 3)) + " c")
+if __name__ == "__main__":
+    end = time.time()
+    print("Время при многопроцессорной загрузке " + str(round(end - start, 3)) + " c")

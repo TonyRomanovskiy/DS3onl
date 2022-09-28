@@ -5,7 +5,7 @@
 v. 02
 
 GIL. Исследование мультипоточности и многопроцессорности.
-Thread download
+Thread download - загрузка в многопоточном режиме
 """
 import re
 import os
@@ -49,4 +49,4 @@ with concurrent.futures.ThreadPoolExecutor(8) as executor:
     executor.map(saving_images, list_of_links)
 
 end = time.time()
-print("Время при одиночной загрузке " + str(round(end - start, 3)) + " c")
+print("Время при многопоточной загрузке " + str(round(end - start, 3)) + " c")
