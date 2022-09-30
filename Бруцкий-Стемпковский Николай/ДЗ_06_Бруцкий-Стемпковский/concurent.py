@@ -45,7 +45,7 @@ if not os.path.isdir("folder_for_images"):
 
 path = os.getcwd() + "\\folder_for_images\\"
 
-with concurrent.futures.ThreadPoolExecutor(8) as executor:
+with concurrent.futures.ThreadPoolExecutor(16) as executor:
     executor.map(saving_images, list_of_links)
 
 end = time.time()
