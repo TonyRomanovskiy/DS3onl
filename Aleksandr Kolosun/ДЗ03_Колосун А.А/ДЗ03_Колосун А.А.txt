@@ -1,0 +1,16 @@
+$ ssh-keygen
+$ git remote add up git@github.com:Aleksandr-Kolosun/Aleksandr-Kolosun.git
+
+# start the ssh-agent in the background
+$ eval "$(ssh-agent -s)"
+>Agent pid 1590
+# adding SSH private key “dr_git_key_05” to the ssh-agent.
+$ ssh-add ~/.ssh/dr_git_key_05
+
+$ git clone git@github.com:Aleksandr-Kolosun/Aleksandr-Kolosun.git
+$ git push up –all
+
+$ git config --global --add safe.directory 'D:/git/Aleksandr Kolosun/Aleksandr Kolosun/DS3onl
+$ git add –all
+$ git commit –m “Сообщение”
+$ git push

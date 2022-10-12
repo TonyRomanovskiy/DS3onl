@@ -1,0 +1,157 @@
+$ history
+    1  git init
+    2  vim .git/config
+    3  git init
+    4  vim .git/config
+    5  git init
+    6  cd
+    7  cd//
+    8  cd..
+    9  /?
+   10  ?
+   11  \?
+   12  help
+   13  help cd
+   14  cd d:\git
+   15  git init
+   16  vim .git/config
+   17  git log --all --graph --oneline --decorate
+   18  ssh-keygen
+   19  git remote
+   20  git config --global --add safe.directory D:/git
+   21  git remote
+   22  git branch
+   23  help git add
+   24  git add
+   25  cd d:\git\Aleksandr Kolosungit clone
+   26  cd d:\git\Aleksandr Kolosungit clone ДЗ03_Колосун А.А.txt
+   27  cd d:\git\Aleksandr Kolosun git clone 'ДЗ03_Колосун А.А.txt'
+   28  git clone d:\git\Aleksandr Kolosun\ДЗ03_Колосун А.А.txt
+   29  q
+   30  :q
+   31  exit
+   32  git branch amazing
+   33  git add readme
+   34  git add readme.md
+   35  git branch amazing
+   36  git status
+   37  git commit -m "Story 01"
+   38  git add feature.txt
+   39  git commit -m "New feature complete."
+   40  git checkout master
+   41  git branch amazing_new_feature
+   42  git branch
+   43  git checkout amazing_new_feature
+   44  git branch
+   45  git add feature.txt
+   46  git commit -m "New feature complete."
+   47  git chekout master
+   48  git checkout master
+   49  git merge amazing_new_feature
+   50  git branch -d awesome_new_feature
+   51  git branch
+   52  git log --all --graph --oneline --decorate
+   53  ssh-keygen
+   54  ls
+   55  git clone git@github.com:Aleksandr-Kolosun/Aleksandr-Kolosun.git
+   56  git clone git@github.com:Aleksandr-Kolosun/Aleksandr-Kolosun.git
+   57  git clone git@github.com:Aleksandr-Kolosun/Aleksandr-Kolosun.git
+   58  ls -al ~/.ssh
+   59  ls
+   60  ls ..
+   61  git clone git@github.com:Aleksandr-Kolosun/Aleksandr-Kolosun.git
+   62  ssh-keygen
+   63  ssh-keygen
+   64  ls -al ~/.ssh
+   65  ssh-keygen
+   66  ls
+   67  git clone git@github.com:Aleksandr-Kolosun/Aleksandr-Kolosun.git
+   68  ls
+   69  git remote add up git@github.com:Aleksandr-Kolosun/Aleksandr-Kolosun.git
+   70  git remote
+   71  git branch
+   72  git push up --all
+   73  git push up --all
+   74  ыы
+   75  ss
+   76  ss
+   77  git-keygen
+   78  ss
+   79  ss
+   80  git-keygen
+   81  ssh-keygen
+   82  ssh-keygen
+   83  git remote add up git@github.com:Aleksandr-Kolosun/Aleksandr-Kolosun.git
+   84  git remote
+   85  git push up --all
+   86  git push up --all
+   87  eval "$(ssh-agent -s)"
+   88  ssh-add ~/.ssh/dr_git_key_05
+   89  git push up --all
+   90  git branch
+   91  git branch -D amazing_new_feature
+   92  git branch
+   93  git clone git@github.com:Aleksandr-Kolosun/DS3onl.git
+   94  eval "$(ssh-agent -s)"
+   95  git clone git@github.com:Aleksandr-Kolosun/DS3onl.git
+   96  git clone git@github.com:Aleksandr-Kolosun/DS3onl.git
+   97  ssh-add ~/.ssh/dr_git_key_05
+   98  git clone git@github.com:Aleksandr-Kolosun/DS3onl.git
+   99  ls
+  100  cd DS3onl
+  101  ls
+  102  ls
+  103  cd Aleksandr Kolosun
+  104  cd 'Aleksandr Kolosun'
+  105  ls
+  106  git add --all
+  107  git config --global --add safe.directory 'D:/git/Aleksandr Kolosun/Aleksandr Kolosun/DS3onl'
+  108  ls
+  109  git add --all
+  110  ls
+  111  git config --global --add safe.directory 'D:/git/Aleksandr Kolosun/Aleksandr Kolosun/DS3onl/Aleksandr Kolosun'
+  112  ls
+  113  git add --all
+  114  git push up --all
+  115  ls
+  116  cd..
+  117  cd ..
+  118  ls
+  119  git add --all
+  120  git push up -all
+  121  git push up --all
+  122  git config --global --add safe.directory 'D:/git/Aleksandr Kolosun/Aleksandr Kolosun/DS3onl'
+  123  git push up --all
+  124  ls
+  125  git add --all
+  126  git push?
+  127  git push ?
+  128  help git push
+  129  git push
+  130  help git commit
+  131  git commit -m
+  132  git add --all
+  133  git commit -m
+  134  git commit -m "Start"
+  135  git push
+  136  help git add
+  137  help help git add
+  138  info git add
+  139  help git
+  140  info git
+  141  ls
+  142  cd 'Aleksandr Kolosun'
+  143  ls
+  144  git add 'ДЗ01_Колосун А.А'
+  145  git commit -m "ДЗ01"
+  146  git push
+  147  cd ..
+  148  git add --all
+  149  git commit -m "ДЗ01-02"
+  150  git push
+  151  ды
+  152  ls
+  153  git add --all
+  154  git commit -m "ДЗ01-03"
+  155  git push
+  156  history
